@@ -38,6 +38,7 @@ public class LoginTest {
 	public static void main(String[] args)	{
 		LoginTest login = new LoginTest();
 		login.testLogin("firefox");
+		login.testLogin("chrome");
 	}
 
 }
