@@ -1,4 +1,4 @@
-package com.opencart.assignment;
+opackage com.opencart.assignment;
 
 import java.util.concurrent.TimeUnit;
 
@@ -37,7 +37,7 @@ public class LoginTest {
 	
 	public static void main(String[] args)	{
 		LoginTest login = new LoginTest();
-		login.testLogin("chrome");
+		login.testLogin("firefox");
 	}
 
 }
